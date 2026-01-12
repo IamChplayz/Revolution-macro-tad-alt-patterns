@@ -1,0 +1,1 @@
+These patterns are from dullysetupv2. I converted them to lua so that they work with revolution macro. drag the files into the patterns folder that revo should have created for you, then drag them to gather. I would recommend using kettle or skillet on you main whith these patterns. credit to dully for making the original patterns in ahk
